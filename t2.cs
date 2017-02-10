@@ -4,4 +4,9 @@ public class t2
   {
     var t =DateTime.Now;
   }
+  
+    public void test2()
+  {
+    var t =DateTime.Now;
+  }
 }
