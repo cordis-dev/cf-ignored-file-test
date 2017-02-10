@@ -1,4 +1,4 @@
-public class t3
+public class t3v2
 {
   public void test()
   {
