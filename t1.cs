@@ -8,5 +8,6 @@ public class t1v4
   
   public void test2()
   {
+    var t =DateTime.Now;
   }
 }
