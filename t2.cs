@@ -5,5 +5,4 @@ public class t2
     var t =DateTime.Now;
     var z = DateTime.Now;
   }
-  
 }
